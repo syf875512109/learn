@@ -5,4 +5,4 @@ s = input('Please enter the number:')
 
 g = s.split()
 
-print(g)
+
