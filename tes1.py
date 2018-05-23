@@ -6,4 +6,3 @@ s = input('Please enter the number:')
 g = s.split()
 
 print('hello, world!')
-print('hi, mike')
